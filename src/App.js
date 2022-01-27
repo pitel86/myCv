@@ -17,28 +17,28 @@ function App() {
       <div className="navbar">
         <button onClick={() => setMenu(1)}>
           <img
-            src="https://cdn.icon-icons.com/icons2/1367/PNG/128/32officeicons-25_89711.png"
+            src="https://res.cloudinary.com/dpeadveub/image/upload/v1643275210/cv/about_clp7sz.png"
             alt="Sobre mi"
           />
           Sobre mi
         </button>
         <button onClick={() => setMenu(2)}>
           <img
-            src="https://cdn.icon-icons.com/icons2/1367/PNG/128/32officeicons-9_89719.png"
+            src="https://res.cloudinary.com/dpeadveub/image/upload/v1643275210/cv/experience_p8fk5o.png"
             alt="Experiencia"
           />
           Experiencia
         </button>
         <button onClick={() => setMenu(3)}>
           <img
-            src="https://cdn.icon-icons.com/icons2/1367/PNG/128/32officeicons-7_89710.png"
+            src="https://res.cloudinary.com/dpeadveub/image/upload/v1643275210/cv/education_fkd0j3.png"
             alt="Estudios"
           />
           Estudios
         </button>
         <button onClick={() => setMenu(4)}>
           <img
-            src="https://cdn.icon-icons.com/icons2/1367/PNG/128/32officeicons-17_89703.png"
+            src="https://res.cloudinary.com/dpeadveub/image/upload/v1643275210/cv/others_qmvkwv.png"
             alt="Otras habilidades"
           />
           Otras habilidades
