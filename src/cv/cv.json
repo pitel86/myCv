@@ -1,0 +1,110 @@
+{
+    "hero": {
+      "name": "Sergio",
+      "surname": "Pitel Sánchez",
+      "city": "Alcorcón",
+      "email": "pitelsergio@gmail.com",
+      "birthDate": "20/06/1986",
+      "image": "https://avatars.githubusercontent.com/u/26249348?s=400&u=3209246673c99ca6ee3f7f0077c09e1c951d0fca&v=4",
+      "gitHub": "https://github.com/pitel86/"
+    },
+    "about": {
+      "aboutMe": [
+        {
+          "info": "💻 Desarrollador web."
+        },
+        {
+          "info": "👨‍💻 En proceso de convertirme en full stack developer."
+        },
+        {
+          "info": "✈️ Mi primer trabajo fue como técnico eléctrico / electrónico en aviónica."
+        },
+        {
+          "info": "⚽ Presidente de la Peña la Previa de la Agrupación Deportiva Alcorcón"
+        }
+      ]
+    },
+    "education": [
+      {
+        "name": "Full Stack Developer",
+        "date": "2022",
+        "where": "Upgrade Hub"
+      },
+      {
+        "name": "Desarrollo Aplicaciones Web",
+        "date": "2014",
+        "where": "IES La Arboleda"
+      },
+      {
+        "name": "Desarrollo Aplicaciones Multiplataforma",
+        "date": "2013",
+        "where": "Centro de Formación Profesional Juan XXIII"
+      },
+      {
+        "name": "Desarrollo Productos Electrónicos",
+        "date": "2009",
+        "where": "IES Prado Santo Domingo"
+      }
+    ],
+    "experience": [
+      {
+        "name": "Desarrollador Web",
+        "date": "07/2017 – 11/2021",
+        "where": "Ddibi",
+        "description":
+          "Desarrollo de páginas Web para campañas de marketing."
+      },
+      {
+        "name": "Técnico Informático",
+        "date": "12/2016 – 07/2017",
+        "where": "INJUVE",
+        "description":
+          "Mantenimiento de aplicaciones propias y asistencia técnica a usuarios."
+      },
+      {
+        "name": "Técnico Informático",
+        "date": "12/2015 – 07/2016",
+        "where": "Nascor Formación",
+        "description":
+          "Mantenimiento de Webs corporativas, gestión de plataformas Moodle, gestión y mantenimiento de equipos."
+      },
+      {
+        "name": "Desarrollador Web",
+        "date": "09/2014 – 09/2015",
+        "where": "Dejavu Arts",
+        "description":
+          "Realización y mantenimiento de proyectos Web de E-commerce con Prestashop, y Webs corporativas con WordPress."
+      },
+      {
+        "name": "Técnico",
+        "date": "09/2010 – 09/2012",
+        "where": "C. Superior Investigaciones Científicas. (CSIC)",
+        "description":
+          "Administrador de dominio del grupo, mantenimiento de equipos, preparación de muestras."
+      },
+      {
+        "name": "Técnico Electrico/Electrónico",
+        "date": "06/2009 – 09/2010",
+        "where": "ATEC",
+        "description":
+          "Trabajos eléctricos y electrónicos para otras empresas del sector aeroespacial, sobre todo EADS-AIRBUS."
+      }
+    ],
+    "languages": {
+      "language": "English",
+      "wrlevel": "Medio-alto",
+      "splevel": "Medio-alto"
+    },
+    "abilities": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "PHP",
+      "MySQL",
+      "Git",
+      "Angular",
+      "React",
+      "MongoDB",
+      "Node"
+    ]
+  }
