@@ -19,9 +19,11 @@ function App() {
     'Content-Type': 'application/json','Access-Control-Allow-Origin': '*'}
   }).then(
     (res) => {
-      console.log(res)
+      if(res.ok){
+        return res.json();
+      }
     }
-  );
+  ).then((data) => console.log(data));
 
   const [menu, setMenu] = useState(0);
   return (
