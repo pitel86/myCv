@@ -10,21 +10,6 @@ import data from "./cv/cv.json";
 const { hero, about, experience, education, languages, abilities } = data;
 
 function App() {
-
-  fetch({
-    method: 'get',
-    url: "https://www.digit-eyes.com/gtin/v2_0/?upcCode=8410261601205&language=es&app_key=/zkyD/oBFDst&signature=attcyYums26PRJ/VPZ4Cb5HlUI8=",
-    responseType: 'stream',
-    headers: {'Accept': 'application/json',
-    'Content-Type': 'application/json','Access-Control-Allow-Origin': '*'}
-  }).then(
-    (res) => {
-      if(res.ok){
-        return res.json();
-      }
-    }
-  ).then((data) => console.log(data));
-
   const [menu, setMenu] = useState(0);
   return (
     <div className="App">
